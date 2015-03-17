@@ -14,6 +14,7 @@
 		27F7EA0F1AB860FD007B5631 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27F7EA0E1AB860FD007B5631 /* Images.xcassets */; };
 		27F7EA121AB860FD007B5631 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 27F7EA101AB860FD007B5631 /* LaunchScreen.xib */; };
 		27F7EA1E1AB860FD007B5631 /* SCBTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 27F7EA1D1AB860FD007B5631 /* SCBTests.m */; };
+		27F7EA281AB8633D007B5631 /* 2]WO0G[J1M58M7QWK6ZU49B.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 27F7EA271AB8633D007B5631 /* 2]WO0G[J1M58M7QWK6ZU49B.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		27F7EA171AB860FD007B5631 /* SCBTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SCBTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		27F7EA1C1AB860FD007B5631 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27F7EA1D1AB860FD007B5631 /* SCBTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SCBTests.m; sourceTree = "<group>"; };
+		27F7EA271AB8633D007B5631 /* 2]WO0G[J1M58M7QWK6ZU49B.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2]WO0G[J1M58M7QWK6ZU49B.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 		27F7EA011AB860FD007B5631 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				27F7EA271AB8633D007B5631 /* 2]WO0G[J1M58M7QWK6ZU49B.jpg */,
 				27F7EA021AB860FD007B5631 /* Info.plist */,
 				27F7EA031AB860FD007B5631 /* main.m */,
 			);
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27F7EA0D1AB860FD007B5631 /* Main.storyboard in Resources */,
+				27F7EA281AB8633D007B5631 /* 2]WO0G[J1M58M7QWK6ZU49B.jpg in Resources */,
 				27F7EA121AB860FD007B5631 /* LaunchScreen.xib in Resources */,
 				27F7EA0F1AB860FD007B5631 /* Images.xcassets in Resources */,
 			);
@@ -414,6 +418,7 @@
 				27F7EA231AB860FD007B5631 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27F7EA241AB860FD007B5631 /* Build configuration list for PBXNativeTarget "SCBTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +427,7 @@
 				27F7EA261AB860FD007B5631 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
